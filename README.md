@@ -6,6 +6,26 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
+## About me
+
+<!-- TO DO: add more details about me later -->
+Hi, I'm Mahamat Allatchi. You might recognize me as passionned in dev.
+
+<details>
+ <summary>My domain to learning </summary>
+ 
+  | Rank | Technology    |
+  |-----:|---------------|
+  |     1|   python      |
+  |     2|    java       |
+  |     3|  Data Science |
+
+</details>
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
+
 
 <!--
 **Allatchimi/Allatchimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
