@@ -1,13 +1,14 @@
 ### 🚀 Hi there, I'm Mahamat Allatchi 👋  
 
+<!--
 <p align="center">
   <picture>
-    <!-- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
-    <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">  -->
+     <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+    <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE"> 
     <img alt="Profile Banner" src="./images/profil.webp">
   </picture>
 </p>
-
+-->
 ---
 
 ### 👨‍💻 About Me  
